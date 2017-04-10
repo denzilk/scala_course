@@ -1,0 +1,13 @@
+target/*
+target
+submission
+project/*
+project
+lib_managed/*
+lib_managed
+.worksheet
+.settings
+.project
+.cache
+.DS_Store
+.classpath
